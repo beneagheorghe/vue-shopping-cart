@@ -1,0 +1,28 @@
+{
+    "products": [
+      { "id": 1,"pick": false, "name": "Iphone", "price": 299, "image": "https://static.mk.ru/upload/entities/2020/01/13/12/articles/detailPicture/64/70/7d/65/f9ef5d793bf5d1562eb04368bd1e308b.jpg", "description": "It a good item for buy, It a good item for buy,It a good item for buy" },
+      { "id": 2,"pick": false, "name": "Samsung", "price": 99, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 3,"pick": false, "name": "Sony", "price": 149, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 4,"pick": false, "name": "Hipster Ultimate", "price": 299, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg", "description": "It a good item for buy, It a good item for buy,It a good item for buy" },
+      { "id": 5,"pick": false, "name": "On Motion Live", "price": 99, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item forbuy,Ita good item for buy,It a good item for buy" },
+      { "id": 6,"pick": false, "name": "Underground Max", "price": 1439, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 7,"pick": false, "name": "Steroids", "price": 299, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg", "description": "It a good item forbuy,It a good item for buy,It a good item for buy" },
+      { "id": 8,"pick": false, "name": "Milk", "price": 499, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 9,"pick": false, "name": "Skirt", "price": 1349, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 10,"pick": false, "name": "Hipster Ultimate", "price": 299, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg", "description": "It a good item for buy, It a good item for buy,It a good item for buy" },
+      { "id": 11,"pick": false, "name": "Alphabet", "price": 299, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 12,"pick": false, "name": "Underground Max", "price": 149, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 13,"pick": false, "name": "Hipster Ultimate", "price": 29, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg", "description": "It a good item forbuy,It a good item for buy,It a good item for buy" },
+      { "id": 14,"pick": false, "name": "On Motion Live", "price": 199, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 15,"pick": false, "name": "Underground Max", "price": 149, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buyIt a good item for buy,It a good item for buy,It a good item for buyIt a good item for buy,It a good item for buy,It a good item for buyIt a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 16,"pick": false, "name": "Hipster Ultimate", "price": 299, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg", "description": "It a good item for buy, It a good item for buy,It a good item for buy" },
+      { "id": 17,"pick": false, "name": "On Motion Live", "price": 99, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buyIt a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 18,"pick": false, "name": "Underground Max", "price": 149, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 19,"pick": false, "name": "Hipster Ultimate", "price": 299, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg", "description": "It a good item for buy, It a good item for buy,It a good item for buy It a good item for buy,It a good item for buy,It a good item for buyIt a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 20,"pick": false, "name": "On Motion Live", "price": 9329, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-2.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy" },
+      { "id": 21,"pick": false, "name": "Underground Max", "price": 149, "image": "https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-3.jpg", "description": "It a good item for buy,It a good item for buy,It a good item for buy It a good item for buy,It a good item for buy,It a good item for buy" }
+    ],
+    "count": 0,
+    "storeItem": [],
+    "totalPrice": 0
+  }
